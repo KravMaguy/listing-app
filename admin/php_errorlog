@@ -1,0 +1,887 @@
+[19-Mar-2021 05:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkSession() in /home/customer/www/listing-app.com/public_html/admin/includes/header.php:5
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/index.php(2): include()
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/includes/header.php on line 5
+[19-Mar-2021 05:11:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(192): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Mar-2021 05:40:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(192): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Mar-2021 05:41:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(192): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Mar-2021 05:46:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(192): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Mar-2021 05:50:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(193): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Mar-2021 05:51:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(193): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Mar-2021 05:52:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(193): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Mar-2021 22:36:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 20:50:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 20:52:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 21:08:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 21:21:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 21:21:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 21:21:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 21:22:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 21:27:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Mar-2021 22:31:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Mar-2021 00:41:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Mar-2021 00:41:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Mar-2021 00:41:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Mar-2021 00:42:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Mar-2021 15:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Mar-2021 15:37:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[23-Mar-2021 17:36:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[23-Mar-2021 17:44:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:15
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(15): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 15
+[23-Mar-2021 17:45:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:15
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(15): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 15
+[25-Mar-2021 06:42:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[25-Mar-2021 06:44:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[25-Mar-2021 07:08:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[25-Mar-2021 07:11:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[25-Mar-2021 08:01:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[26-Mar-2021 16:28:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[26-Mar-2021 16:30:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[27-Mar-2021 18:22:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[28-Mar-2021 21:11:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[28-Mar-2021 21:41:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[30-Mar-2021 20:02:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[30-Mar-2021 20:02:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[30-Mar-2021 20:05:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[30-Mar-2021 21:35:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 16:42:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 16:58:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 17:34:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 17:35:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 17:35:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 17:35:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 18:06:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 18:06:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 18:09:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 18:10:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 18:23:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 18:28:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 18:52:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 18:52:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 19:00:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 19:01:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Mar-2021 19:12:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[01-Apr-2021 01:44:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[01-Apr-2021 18:14:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[01-Apr-2021 18:15:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[02-Apr-2021 06:47:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[02-Apr-2021 06:49:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[02-Apr-2021 23:33:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[04-Apr-2021 16:07:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[06-Apr-2021 03:51:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[12-Apr-2021 02:41:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[14-Apr-2021 01:23:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[14-Apr-2021 15:32:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Apr-2021 17:37:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Apr-2021 17:46:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Apr-2021 17:57:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Apr-2021 18:01:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Apr-2021 18:07:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-Apr-2021 18:13:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Apr-2021 16:14:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[30-Apr-2021 22:12:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[03-May-2021 13:38:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[05-May-2021 01:01:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[05-May-2021 10:34:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[10-May-2021 21:00:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[19-May-2021 16:51:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-May-2021 23:11:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-May-2021 23:11:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[10-Jun-2021 19:26:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[11-Jun-2021 08:38:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[14-Jun-2021 06:10:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[14-Jun-2021 06:12:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Jun-2021 20:48:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[24-Jun-2021 02:15:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[24-Jun-2021 15:44:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[01-Jul-2021 20:22:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[06-Jul-2021 06:10:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[06-Jul-2021 13:12:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[09-Jul-2021 18:59:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[15-Jul-2021 20:51:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[17-Jul-2021 14:40:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Jul-2021 20:55:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[25-Jul-2021 23:16:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[29-Jul-2021 23:27:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[29-Jul-2021 23:50:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[29-Jul-2021 23:53:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[31-Jul-2021 01:54:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[05-Aug-2021 02:06:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[05-Aug-2021 02:06:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[09-Aug-2021 21:14:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[11-Aug-2021 02:27:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[11-Aug-2021 05:02:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[29-Aug-2021 05:53:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[29-Aug-2021 06:36:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[29-Aug-2021 06:38:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[29-Aug-2021 07:38:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[29-Aug-2021 07:40:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[05-Sep-2021 04:08:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[09-Sep-2021 01:59:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[15-Sep-2021 07:07:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[15-Sep-2021 10:24:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[16-Sep-2021 12:24:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[17-Sep-2021 12:12:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[20-Sep-2021 17:43:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[21-Sep-2021 16:51:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Sep-2021 03:01:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[02-Oct-2021 21:05:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[02-Oct-2021 21:11:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[08-Oct-2021 12:27:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[09-Oct-2021 23:58:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[20-Oct-2021 08:18:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[25-Oct-2021 16:27:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[25-Oct-2021 16:42:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[09-Nov-2021 11:00:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[18-Nov-2021 00:29:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Nov-2021 11:45:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Nov-2021 11:45:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[01-Dec-2021 04:27:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[04-Dec-2021 08:18:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[22-Dec-2021 23:36:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[25-Dec-2021 09:46:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[26-Dec-2021 17:20:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[07-Jan-2022 21:35:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[07-Jan-2022 23:15:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[13-Jan-2022 13:27:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[15-Jan-2022 11:57:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[17-Jan-2022 18:36:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[20-Jan-2022 17:20:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[20-Jan-2022 20:41:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[24-Jan-2022 19:38:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[26-Jan-2022 07:17:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9
+[26-Jan-2022 17:42:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/customer/www/listing-app.com/public_html/scripts/functions.php:9
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/functions.php(9): PDO->query('SELECT * FROM t...')
+#1 /home/customer/www/listing-app.com/public_html/admin/index.php(45): getAllBuildingsByUserId(NULL)
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/functions.php on line 9

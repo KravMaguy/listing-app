@@ -1,0 +1,21 @@
+[19-Mar-2021 05:24:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'kravtester'@'localhost' (using password: YES) in /home/customer/www/listing-app.com/public_html/scripts/pdocon.php:5
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/pdocon.php(5): PDO->__construct('mysql:host=127....', 'kravtester', 'PHPpolyglot123', Array)
+#1 /home/customer/www/listing-app.com/public_html/all_buildings.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/pdocon.php on line 5
+[19-Mar-2021 05:32:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'urqhkynw3jgdw'@'localhost' (using password: YES) in /home/customer/www/listing-app.com/public_html/scripts/pdocon.php:5
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/scripts/pdocon.php(5): PDO->__construct('mysql:host=loca...', 'urqhkynw3jgdw', 'hd53bd$j1?ct', Array)
+#1 /home/customer/www/listing-app.com/public_html/all_buildings.php(3): require_once('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/scripts/pdocon.php on line 5
+[01-Apr-2021 18:44:44 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65
+[01-Apr-2021 18:45:33 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65
+[01-Apr-2021 18:45:53 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65
+[01-Apr-2021 18:47:21 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65
+[01-Apr-2021 18:47:33 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65
+[01-Apr-2021 18:48:18 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65
+[01-Apr-2021 18:48:22 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65
+[01-Apr-2021 18:48:50 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65
+[01-Apr-2021 18:49:00 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/customer/www/listing-app.com/public_html/inc/modals.php on line 65

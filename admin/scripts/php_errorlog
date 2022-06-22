@@ -1,0 +1,57 @@
+[22-Mar-2021 15:37:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/listing-app.com/public_html/admin/scripts/login_handler.php on line 38
+[22-Mar-2021 15:38:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/listing-app.com/public_html/admin/scripts/login_handler.php on line 38
+[31-Mar-2021 17:27:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fname' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:110
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(110): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 110
+[31-Mar-2021 17:27:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fname' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:110
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(110): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 110
+[02-Apr-2021 04:19:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fname' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116
+[02-May-2021 04:35:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fname' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116
+[31-May-2021 05:45:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116
+[31-May-2021 05:45:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116
+[31-May-2021 05:45:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116
+[31-May-2021 05:46:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116
+[30-Jun-2021 03:06:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116
+[01-Jul-2021 05:37:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fname' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116
+[27-Jan-2022 14:39:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fname' cannot be null in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php:116
+Stack trace:
+#0 /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php(116): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/admin/scripts/callback.php on line 116

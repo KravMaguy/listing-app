@@ -1,0 +1,122 @@
+.bg-margin {
+	margin: 20px auto;
+}
+
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.image-desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.gallery-responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+    .gallery-responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .gallery-responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.button-gallery {
+	background-color: #555555;
+	border: 2px solid #555555;
+	border-radius: 8px;
+	color: white;
+	padding: 10px 38px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+}
+
+.btn-gallery {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+
+.well img{width:100%;
+  cursor:pointer;}
+
+.lightbox{display:none;
+          z-index:1;
+          height:100vh;
+          width:100%;
+          background:black;
+          color:grey;
+          padding-right:10px;
+          font-size:3em;
+          }
+
+.lightbox label{cursor:pointer;}
+
+#imgactive{
+       position: fixed;
+       z-index:2;
+	     top:0;
+	     bottom: 0;
+	     left: 0;
+	     right: 0;
+	     margin: auto;
+       padding:20px;
+       cursor:inherit;}
+
+@media screen and (max-width: 400px) {
+#imgactive {padding:0;}
+}
+
+@media screen and (min-width: 600px) {
+#imgactive {width:80%;}
+}
+
+@media screen and (min-width: 800px) {
+#imgactive {width:70%;}
+}
+
+@media screen and (min-width: 1000px) {
+#imgactive {width:65%;}
+}
+
+@media screen and (min-width: 1200px) {
+#imgactive {width:60%;}
+}
+
+.some-container {
+    display: flex;
+    
+  }
+  .some-col {
+      
+    flex: 1;
+    padding: 16px;
+    
+  }
+  

@@ -1,0 +1,4 @@
+[22-Mar-2021 01:39:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Hybridauth\Hybridauth' not found in /home/customer/www/listing-app.com/public_html/social/vendor/hybridauth/hybridauth/examples/example_06/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/listing-app.com/public_html/social/vendor/hybridauth/hybridauth/examples/example_06/index.php on line 11
